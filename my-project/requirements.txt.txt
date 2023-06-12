@@ -1,0 +1,5 @@
+matplotlib
+
+matplotlib==3.4.3
+numpy==1.19.5
+control==0.9.0
